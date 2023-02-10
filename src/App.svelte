@@ -208,6 +208,7 @@
     min-width: 96vw;
     max-width: 96vw;
     margin-bottom: 5vh;
+    margin-right: 0;
     }
     .meet-div {
       display: flex;
