@@ -193,4 +193,19 @@
   #apply-button:hover {
     background-color: #82b2b9;
   }
+  @media (max-width: 480px) {
+    .row-content {
+      flex-direction: column;
+    }
+    iframe {
+      max-width: 96vw;
+      height: 96vw;
+      height: auto;
+    }
+    .chart1 {
+      width: 96vw;
+      max-width: 96vw;
+      height: auto;
+    }
+  }
 </style>
