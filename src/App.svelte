@@ -137,6 +137,7 @@
   }
   td {
     text-align: center;
+    width: 10em;
   }
   .culture-head {
     display: flex;
