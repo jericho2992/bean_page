@@ -9,7 +9,6 @@
         rotation-=1;
       }
       const trans = "rotate("+rotation+"deg)";
-      console.log(trans);
       const el = document.getElementById("wave");
       el.style.transform = trans;
       if(rotation>44) {
@@ -28,7 +27,7 @@
 <main>
   <div class="meet-div row-content">
     <div class="page-head row-content">
-      <img src="./src/assets/engTech.png" id="icon" alt="engTech Icon">
+      <img src="./images/engTech.png" id="icon" alt="engTech Icon">
       <h1>
         hello engtech!
       </h1>
