@@ -203,15 +203,9 @@
       height: auto;
     }
     .chart1 {
-      width: 96vw;
-      max-width: 96vw;
-      height: auto;
-    }
-    h1 {
-      font-size: 1em;
-    }
-    h2 {
-      font-size: 0.75em;
+    min-height: auto;
+    min-width: 96vw;
+    max-width: 96vw;
     }
   }
 </style>
