@@ -212,5 +212,14 @@
       flex-direction: column;
       align-items: center;
     }
+    .page-head {
+      align-items: center;
+    }
+    .chart-video {
+      align-items: center;
+    }
+    table {
+      margin-bottom: 2vh;
+    }
   }
 </style>
