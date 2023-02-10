@@ -207,5 +207,10 @@
     min-width: 96vw;
     max-width: 96vw;
     }
+    .meet-div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
   }
 </style>
