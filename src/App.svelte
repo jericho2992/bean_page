@@ -221,5 +221,11 @@
     .chart-video {
       align-items: center;
     }
+    .culture-head {
+      justify-content: center;
+    }
+    .roles-head {
+      text-align: center;
+    }
   }
 </style>
