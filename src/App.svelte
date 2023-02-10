@@ -135,8 +135,8 @@
   .chart1 h2 {
     margin: 1.5em 0.2em;
   }
-  .left-td {
-    text-align: right;
+  td {
+    text-align: center;
   }
   .culture-head {
     display: flex;
