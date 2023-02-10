@@ -88,7 +88,7 @@
     flex-wrap: nowrap;
     background-color: #ffffff;
     min-height: 100vh;
-    width: 100vw;
+    min-width: 100vw;
     margin: 0;
   }
   .row-content {
@@ -193,7 +193,7 @@
   #apply-button:hover {
     background-color: #82b2b9;
   }
-  @media (max-width: 480px) {
+  @media (max-width: 768px) {
     .row-content {
       flex-direction: column;
     }
@@ -206,6 +206,12 @@
       width: 96vw;
       max-width: 96vw;
       height: auto;
+    }
+    h1 {
+      font-size: 1em;
+    }
+    h2 {
+      font-size: 0.75em;
     }
   }
 </style>
