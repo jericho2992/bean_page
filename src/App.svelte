@@ -206,6 +206,7 @@
     min-height: auto;
     min-width: 96vw;
     max-width: 96vw;
+    margin-bottom: 5vh;
     }
     .meet-div {
       display: flex;
@@ -217,9 +218,6 @@
     }
     .chart-video {
       align-items: center;
-    }
-    table {
-      margin-bottom: 2vh;
     }
   }
 </style>
