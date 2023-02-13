@@ -67,7 +67,7 @@
       <h1>open roles</h1>
       <div class="roles-head-sub">
         <h2>NYC</h2>
-        <h2>🔥 Summer Intership!</h2>
+        <h2>🔥 Summer Internship!</h2>
       </div>
     </div>
     <div class="roles-content">
